@@ -1,6 +1,4 @@
 Hi there, I’m Majd aka @majicmaj
-I’m interested in cutting edge technologies and devleoping cool apps
-I’m currently learning PWA's and AWS
 
 You can reach me on my email majd.tarbin@outlook.com
 
