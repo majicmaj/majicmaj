@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=majicmaj&show_icons=true">
 
-🌐 [Personal Website](https://majdtarbin.com) | 📌 [LinkedIn](https://linkedin.com/in/majdtarbin) | 💌 majd.tarbin@outlook.com
+🌐 [Portfolio](https://majdtarbin.com) | 📌 [LinkedIn](https://linkedin.com/in/majdtarbin) | 💌 majd.tarbin@outlook.com
 
 ## About Me
 I'm a Full-Stack Software Engineer who's been juggling with code and pixels since childhood, and professionally for over 5 years. While I've been diving deep into the realms of Typescript, React, and Node.js (to name a few), I'm always on the lookout for the next big thing (or at least, the next shiny thing to tinker with!). 
