@@ -13,8 +13,6 @@ When I'm not building scalable web apps or mentoring the next generation of tech
 🎨 Drawing away on [Rassam](https://Rassam.netlify.app)  
 ☔ Checking if I'll need an umbrella today with [Skyguide](https://www.Skyguide.me)  
 
-**Fun Fact:** If coding was a potion, I'd be its brewing wizard! 🧙‍♂️
-
 ## Current Stack
 
 - **Front-End Magic**: React, Svelte, Vue, Solid  
