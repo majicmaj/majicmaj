@@ -26,4 +26,5 @@ Full-Stack Engineer with over half a decade of experience building web applicati
 
 ## Contact
 Always open to discussing tech, projects, or collaborations. Let's connect via:
+
 [Email](mailto:majd.tarbin@outlook.com) • [LinkedIn](https://linkedin.com/in/majdtarbin) • [Portfolio](https://majdtarbin.com/)
