@@ -13,15 +13,12 @@ Full-Stack Engineer with over half a decade of experience building web applicati
 **Personal Projects:**
 - [ASH UI](https://github.com/majicmaj/awesome-selfhosted-ui) - Discover and browse Awesome Self Hosted Apps
 [![GitHub stars](https://img.shields.io/github/stars/majicmaj/awesome-selfhosted-ui?style=social)](https://github.com/majicmaj/awesome-selfhosted-ui/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/majicmaj/awesome-selfhosted-ui?style=social)](https://github.com/majicmaj/awesome-selfhosted-ui/network)
 
 - [Aloha](https://github.com/majicmaj/aloha) - Self-hosted chat UI for Ollama
 [![GitHub stars](https://img.shields.io/github/stars/majicmaj/aloha?style=social)](https://github.com/majicmaj/aloha/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/majicmaj/aloha?style=social)](https://github.com/majicmaj/aloha/network)
 
 - [Neuronauts](https://github.com/majicmaj/neuronauts) - Semantic word game inspired by Semantle
 [![GitHub stars](https://img.shields.io/github/stars/majicmaj/neuronauts?style=social)](https://github.com/majicmaj/neuronauts/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/majicmaj/neuronauts?style=social)](https://github.com/majicmaj/neuronauts/network)
 
 - [Vibe AI](https://Vibeai.netlify.app) - AI-powered playlist generator
 - [Rassam](https://Rassam.netlify.app) - Digital painting platform inspired by ProCreate
