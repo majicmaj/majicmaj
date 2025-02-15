@@ -19,9 +19,13 @@ Full-Stack Engineer with over half a decade of experience building web applicati
 [![GitHub stars](https://img.shields.io/github/stars/majicmaj/aloha?style=social)](https://github.com/majicmaj/aloha/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/majicmaj/aloha?style=social)](https://github.com/majicmaj/aloha/network)
 
+- [Neuronauts](https://github.com/majicmaj/neuronauts) - Semantic word game inspired by Semantle
+[![GitHub stars](https://img.shields.io/github/stars/majicmaj/neuronauts?style=social)](https://github.com/majicmaj/neuronauts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/majicmaj/neuronauts?style=social)](https://github.com/majicmaj/neuronauts/network)
+
 - [Vibe AI](https://Vibeai.netlify.app) - AI-powered playlist generator
-- [Rassam](https://Rassam.netlify.app) - Digital art collaboration platform
-- [Skyguide](https://www.Skyguide.me) - Weather forecasting API
+- [Rassam](https://Rassam.netlify.app) - Digital painting platform inspired by ProCreate
+- [Skyguide](https://www.Skyguide.me) - Weather forecasting app
 
 ## Technologies
 
