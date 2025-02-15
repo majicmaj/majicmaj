@@ -11,7 +11,14 @@ Full-Stack Engineer with over half a decade of experience building web applicati
 - Technical mentoring
 
 **Personal Projects:**
+- [ASH UI](https://github.com/majicmaj/awesome-selfhosted-ui) - Discover and browse Awesome Self Hosted Apps
+[![GitHub stars](https://img.shields.io/github/stars/majicmaj/awesome-selfhosted-ui?style=social)](https://github.com/majicmaj/awesome-selfhosted-ui/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/majicmaj/awesome-selfhosted-ui?style=social)](https://github.com/majicmaj/awesome-selfhosted-ui/network)
+
 - [Aloha](https://github.com/majicmaj/aloha) - Self-hosted chat UI for Ollama
+[![GitHub stars](https://img.shields.io/github/stars/majicmaj/aloha?style=social)](https://github.com/majicmaj/aloha/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/majicmaj/aloha?style=social)](https://github.com/majicmaj/aloha/network)
+
 - [Vibe AI](https://Vibeai.netlify.app) - AI-powered playlist generator
 - [Rassam](https://Rassam.netlify.app) - Digital art collaboration platform
 - [Skyguide](https://www.Skyguide.me) - Weather forecasting API
